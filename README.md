@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zahira77
-- 👀 I’m interested in poetry
+- 👀 I’m interested in Poetry
 - 🌱 I’m currently learning Python, Mongo DB and Cloud Computing
 - 💞️ I’m looking to collaborate on Cloud Computing with AI
 - 📫 How to reach me - https://www.linkedin.com/in/zahira-shaik-1ab213262/
